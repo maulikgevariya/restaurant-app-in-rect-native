@@ -1,1 +1,1 @@
-# restaurant-app-in-rect-native
+# restaurant-app-in-react-native
